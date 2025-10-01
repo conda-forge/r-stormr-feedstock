@@ -12,7 +12,7 @@ source:
   sha256: 7bdf69145ee624eb244fea3a3d1272ddacce382da9d6de3cc5d40c3fd029822c
 
 build:
-  number: 0
+  number: 1
   # TODO: uncomment generic and remove skip once in feedstock
   # see https://github.com/conda-forge/staged-recipes/issues/30775
   # noarch: generic
